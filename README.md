@@ -17,6 +17,9 @@ Responsive Design: Ensures the app is fully functional and visually appealing on
 Technologies Used:
 
 HTML
+
 CSS
+
 JavaScript
+
 Weather API
